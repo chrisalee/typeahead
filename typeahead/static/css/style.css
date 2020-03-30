@@ -1,0 +1,12 @@
+#the-basics{
+    font-size: 3em;
+}
+
+#the-basics input{
+    margin-left: 180px;
+}
+
+/* to align suggestion box with input box */
+.tt-suggestion{
+    margin-left: 180px;
+}
